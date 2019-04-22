@@ -1,0 +1,19 @@
+.getInput {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.getInput div {
+    display: inline-block;
+    text-align: left;
+}
+
+.graph-dropdown select {
+    display: block;
+    margin: 0 auto;
+}
+
+.graph-dropdown {
+    padding-bottom: 15px;
+}
